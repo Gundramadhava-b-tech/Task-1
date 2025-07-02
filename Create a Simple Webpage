@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Profile Page</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: linear-gradient(to right, #6dd5fa, #2980b9);
+      color: #fff;
+      text-align: center;
+      margin: 0;
+      padding: 0;
+    }
+
+    .container {
+      margin-top: 50px;
+      padding: 20px;
+    }
+
+    img {
+      width: 200px;
+      height: auto;
+      border-radius: 50%;
+      border: 5px solid #fff;
+      margin-top: 20px;
+    }
+
+    h1 {
+      font-size: 3em;
+      margin-bottom: 10px;
+    }
+
+    p {
+      font-size: 1.2em;
+      max-width: 600px;
+      margin: 0 auto;
+    }
+
+    footer {
+      margin-top: 40px;
+      font-size: 0.9em;
+      color: #f0f0f0;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Gundra Madhava</h1>
+    <p>
+      I am a passionate web developer and computer science student with a strong interest in AI, embedded systems, and fitness tech. I enjoy building creative digital experiences and exploring the future of intelligent systems.
+    </p>
+    <img src="https://via.placeholder.com/200" alt="My Profile Picture">
+    <footer>
+      &copy; 2025 Gundra Madhava. All rights reserved.
+    </footer>
+  </div>
+</body>
+</html>
